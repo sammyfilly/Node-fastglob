@@ -44,7 +44,7 @@
     "hereby": "^1.8.1",
     "mocha": "^10.2.0",
     "rimraf": "^5.0.0",
-    "sinon": "^15.2.0",
+    "sinon": "^16.0.0",
     "snap-shot-it": "^7.9.10",
     "typescript": "^5.1.6"
   },
