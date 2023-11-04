@@ -33,7 +33,7 @@
     "@types/mocha": "^10.0.1",
     "@types/node": "^16.18.39",
     "@types/picomatch": "^2.3.0",
-    "@types/sinon": "^10.0.15",
+    "@types/sinon": "^17.0.0",
     "bencho": "^0.1.1",
     "eslint": "^8.46.0",
     "eslint-config-mrmlnc": "^4.0.1",
@@ -44,7 +44,7 @@
     "hereby": "^1.8.1",
     "mocha": "^10.2.0",
     "rimraf": "^5.0.0",
-    "sinon": "^15.2.0",
+    "sinon": "^17.0.0",
     "snap-shot-it": "^7.9.10",
     "typescript": "^5.1.6"
   },
